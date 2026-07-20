@@ -1,10 +1,10 @@
- MODERN RECIPE API :
+# MODERN RECIPE API :
 
 A modern Food Menu web application that fetches meal data from an external API and displays delicious recipes with their images, categories,
 ingredients, and cooking instructions.
 
 
- 📖 Overview
+ # Overview :
 
 The **Food Menu App** is a responsive web application built using **HTML**, **CSS**, and **JavaScript**.
 It integrates with the **TheMealDB API** to dynamically fetch food recipes and display them in an attractive user interface.
@@ -14,7 +14,7 @@ Instead of hardcoding menu items, the application retrieves real-time meal infor
 
 ---
 
-# 🚀 Live Demo
+# 🚀 Live Demo :
 
 🔗 **Live Website** :
 
@@ -22,7 +22,7 @@ Instead of hardcoding menu items, the application retrieves real-time meal infor
 
 ---
 
-# ✨ Features
+# ✨ Features :
 
 - 🍔 Fetches meals from an external API
 - 🔍 Search meals by name
@@ -36,7 +36,7 @@ Instead of hardcoding menu items, the application retrieves real-time meal infor
 
 ---
 
-# 🛠️ Technologies Used
+# 🛠️ Technologies Used :
 
 - HTML5
 - CSS3
@@ -46,12 +46,9 @@ Instead of hardcoding menu items, the application retrieves real-time meal infor
 
 ---
 
-# 🌐 API Used
+# 🌐 API Used :
 
    https:// fake.api.store 
    Fake api for recipe including all the thing including every meals.
-
-
-
 
 A
